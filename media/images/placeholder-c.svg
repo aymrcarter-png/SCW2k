@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#12121a"/>
+  <rect x="0" y="0" width="600" height="10" fill="#2f6fed"/>
+  <text x="300" y="300" fill="#3f7dff" font-family="Oswald,Arial Narrow,sans-serif" font-size="120" font-weight="700" text-anchor="middle" dominant-baseline="middle">SCW</text>
+  <text x="300" y="380" fill="#8b8b96" font-family="Oswald,Arial,sans-serif" font-size="22" text-anchor="middle" letter-spacing="6">PHOTO 03</text>
+</svg>

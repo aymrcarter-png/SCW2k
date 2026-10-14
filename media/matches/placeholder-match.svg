@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Match graphic placeholder">
+  <rect width="640" height="360" fill="#131318"/>
+  <rect x="8" y="8" width="624" height="344" fill="none" stroke="#2a2a33" stroke-width="2"/>
+  <text x="320" y="176" text-anchor="middle" font-family="Oswald, Arial, sans-serif" font-size="34" letter-spacing="4" fill="#d4af37">MATCH GRAPHIC</text>
+  <text x="320" y="212" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#8a8a94">Replace with your image (16:9)</text>
+</svg>
